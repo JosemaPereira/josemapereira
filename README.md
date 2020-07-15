@@ -1,16 +1,31 @@
-### Hi there 👋
+# Jose Pereira @josemapereira
 
-<!--
-**JosemaPereira/josemapereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Jose Pereira. Energetic, curious and passionate about learning.
 
-Here are some ideas to get you started:
+I'm frontend developer with 4 years of experience usign javascript frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to teach and share my knowledge with people, so currently I'm part of an online courses platform call [AzulSchool.net](https://www.azulschool.net). I have released my first course
+[Curso profesional de JavaScript desde cero](https://https://www.azulschool.net/presentacion/curso-javascript/) (Professional JavaScript course from scratch)
+
+### My Skills
+
+- JavaScript
+  - Angular
+  - React
+  - jQuery
+  - NodeJS
+
+- AWS
+  - Lambdas
+  - Cloudfront
+  - Api Gateway
+  - S3
+
+- NoSQL
+  - Dynamo
+  - Redis
+
+- Other
+  - Serverless
+  - CCS3
+  - SASS
