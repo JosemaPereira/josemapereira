@@ -27,6 +27,9 @@
     width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40"
     height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" width="40"
+    height="40" />
 </p>
 
 <h4>Frontend Development</h4>
@@ -35,8 +38,6 @@
     width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs"
     width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/yii/yii-original.svg" alt="yii" width="40"
-    height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
     width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40"
@@ -46,6 +47,14 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" alt="jquery" width="40"
     height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40"
+    height="40" />
+</p>
+
+<h4>Frameworks</h4>
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/yii/yii-original.svg" alt="yii" width="40"
+    height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40"
     height="40" />
 </p>
 
@@ -90,8 +99,11 @@
 <hr>
 </br>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josemapereira&show_icons=true"
-    alt="josemapereira" />
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemapereira&layout=compact&hide=html"
+    alt="josemapereira" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=josemapereira&show_icons=true"
+  alt="josemapereira" />
 </p>
 
 <hr>
