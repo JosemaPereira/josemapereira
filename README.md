@@ -25,6 +25,8 @@
     width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"
     width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40"
+    height="40" />
 </p>
 
 <h4>Frontend Development</h4>
@@ -33,11 +35,25 @@
     width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs"
     width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/yii/yii-original.svg" alt="yii" width="40"
+    height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
     width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40"
     height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"
+    height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" alt="jquery" width="40"
+    height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40"
+    height="40" />
+</p>
+
+<h4>Unit Testing</h4>
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/jasmine/jasmine-plain.svg" alt="jasmine" width="40"
+    height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mocha/mocha-plain.svg" alt="mocha" width="40"
     height="40" />
 </p>
 
@@ -53,9 +69,9 @@
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
     width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
-    width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis"
+    width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
     width="40" height="40" />
 </p>
 
