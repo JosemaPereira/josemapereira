@@ -1,14 +1,14 @@
 <h1 align="center">Hi :wave:, I'm Josema Pereira</h1>
-<h3 align="center">Self-taught, I constantly look for challenges that enrich me personally and professionally.</h3>
+<h3 align="center">Self-taught, I constantly look up new challenges to increase my knowledge and potential as front-end developer.</h3>
 <h3 align="center">Cancun,México. :sunny: :palm_tree:</h3>
 <hr>
 </br>
 <h3 align="center">About me</h3>
-<h4>I'm frontend developer with 4 years of experience usign javascript frameworks.</h4>
-<h4>I like to teach and share my knowledge with people, so currently I'm part of an online courses platform call
-  AzulSchool.net. I have released my first course entitled <a
+<h4>I'm front-end developer with 4 years of experience usign javascript frameworks.</h4>
+<h4>I like to teach and share my knowledge with people, currently I'm collaborate for an online courses platform called
+  AzulSchool.net. I have released my first course titled <a
     href="https://www.azulschool.net/presentacion/curso-javascript/">Curso profesional de JavaScript desde cero</a>
-  (Professional JavaScript course from scratch in spanish)</h4>
+  (Professional JavaScript course from scratch)</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josemapereira" alt="josemapereira" />
