@@ -38,6 +38,8 @@
     width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs"
     width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs"
+    width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
     width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40"
