@@ -102,7 +102,7 @@
 </br>
 <p>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemapereira&layout=compact&hide=html"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemapereira&layout=compact"
     alt="josemapereira" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=josemapereira&show_icons=true"
   alt="josemapereira" />
