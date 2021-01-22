@@ -1,3 +1,4 @@
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
 <h1 align="center">Hi :wave:, I'm Josema Pereira</h1>
 <h3 align="center">Self-taught, I constantly look up new challenges to increase my knowledge and potential as front-end developer.</h3>
 <h3 align="center">Cancun,México. :sunny: :palm_tree:</h3>
@@ -21,8 +22,7 @@
 
 <h4>Programming Language</h4>
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"
-    width="40" height="40" />
+   <i class="devicon-javascript-plain colored"></i>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"
     width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40"
