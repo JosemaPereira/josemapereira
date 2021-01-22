@@ -1,121 +1,31 @@
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
-<h1 align="center">Hi :wave:, I'm Josema Pereira</h1>
-<h3 align="center">Self-taught, I constantly look up new challenges to increase my knowledge and potential as front-end developer.</h3>
-<h3 align="center">Cancun,México. :sunny: :palm_tree:</h3>
-<hr>
-</br>
-<h3 align="center">About me</h3>
-<h4>I'm front-end developer with 4 years of experience usign javascript frameworks.</h4>
-<h4>I like to teach and share my knowledge with people, currently I'm collaborate for an online courses platform called
-  AzulSchool.net. I have released my first course titled <a
-    href="https://www.azulschool.net/presentacion/curso-javascript/">Curso profesional de JavaScript desde cero</a>
-  (Professional JavaScript course from scratch)</h4>
+# Hi :wave:, I'm Josema Pereira
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=josemapereira" alt="josemapereira" />
-</p>
-<p>:mailbox: How to reach me <b>josema.pereira.cih@gmail.com</b></p>
-<hr>
-</br>
+I'm a Software Engineer with experience in the use of javascript frameworks for almost four years. Self-taught person and always I'm looking for new challenges.
+Cancun,México. :sunny: :palm_tree:
 
-<h3 align="center">My Skills</h3>
+## About me
+I'm front-end developer with 4 years of experience usign javascript frameworks.
+I like to teach and share my knowledge with people, currently I'm collaborate for an online courses platform called AzulSchool.net. I have released my first course titled [Curso profesional de JavaScript desde cero](https://www.azulschool.net/presentacion/curso-javascript/) (Fundamentals of JavaScript)
 
-<h4>Programming Language</h4>
-<p align="left">
-   <i class="devicon-javascript-plain colored"></i>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"
-    width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40"
-    height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" width="40"
-    height="40" />
-</p>
+:mailbox: Stay in touch! josema.pereira.cih@gmail.com
 
-<h4>Frontend Development</h4>
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react"
-    width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs"
-    width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs"
-    width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
-    width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40"
-    height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"
-    height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" alt="jquery" width="40"
-    height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40"
-    height="40" />
-</p>
+## My Skills
 
-<h4>Frameworks</h4>
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/yii/yii-original.svg" alt="yii" width="40"
-    height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40"
-    height="40" />
-</p>
+|Area|  |
+|:--:|--|
+|Programming Language|![JS](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg) ![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) ![C++](https://img.icons8.com/ios-filled/100/000000/c-plus-plus-logo.png) ![PHP](https://www.vectorlogo.zone/logos/php/php-vertical.svg) ![python](https://www.vectorlogo.zone/logos/python/python-vertical.svg)|
+|Frontend Development|![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![Angularjs](https://www.vectorlogo.zone/logos/angular/angular-icon.svg) ![VueJs](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) ![SASS](https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![jQuery](https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg) ![Webpack](https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg)|
+|Frameworks|![serverless](https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg) ![Chalice](https://aws.github.io/chalice/_static/img/chalice-logo-icon-small.png) ![Yii](https://www.vectorlogo.zone/logos/yiiframework/yiiframework-ar21.svg) ![.Net](https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg)|
+|Unit Testing| ![Jasmine](https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21.svg) ![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg)|
+|Backend Development| ![express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg) ![nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg) |
+|Database|![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg) ![Redis](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg) ![enter image description here](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)|
+|Devops	|![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)|
+|Other|![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) ![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg) ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)|
 
-<h4>Unit Testing</h4>
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/jasmine/jasmine-plain.svg" alt="jasmine" width="40"
-    height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mocha/mocha-plain.svg" alt="mocha" width="40"
-    height="40" />
-</p>
+## Stats
+![Profile](https://komarev.com/ghpvc/?username=josemapereira)
 
-<h4>Backend Development</h4>
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express"
-    width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
-    width="40" height="40" />
-</p>
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=josemapereira&layout=compact)
 
-<h4>Database</h4>
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
-    width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis"
-    width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
-    width="40" height="40" />
-</p>
-
-<h4>Devops</h4>
-<p align="left">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="aws" width="40" height="40" />
-</p>
-
-<h4>Other</h4>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</p>
-
-<hr>
-</br>
-<p>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemapereira&layout=compact"
-    alt="josemapereira" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=josemapereira&show_icons=true"
-  alt="josemapereira" />
-</p>
-
-<hr>
-</br>
-<h3 align="center">Follow me!!!</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/josemapereira" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="josemapereira" height="30"
-      width="30" /></a>
-  <a href="https://instagram.com/josema_pereira" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="josema_pereira" height="30"
-      width="30" /></a>
-</p>
+##  Follow me!
+[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://linkedin.com/in/josemapereira)[![enter image description here](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://instagram.com/josema_pereira)
