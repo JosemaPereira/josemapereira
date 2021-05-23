@@ -1,9 +1,11 @@
 # Hi :wave:, I'm Josema Pereira
 
+[![aws](badges/aws-certified-developer-associate.png)](https://www.credly.com/badges/5a0d1646-2666-4864-aa03-7da32fc5c4cb/public_url)
+
 I'm a Software Engineer with experience in the use of javascript frameworks for almost four years. Self-taught person and always I'm looking for new challenges.
 Cancun,México. :sunny: :palm_tree:
 
-## Abouth me
+## About me
 I'm front-end developer with 4 years of experience usign javascript frameworks.
 I like to teach and share my knowledge with people, currently I'm collaborate for an online courses platform called AzulSchool.net. I have released my first course titled [Curso profesional de JavaScript desde cero](https://www.azulschool.net/presentacion/curso-javascript/) (Fundamentals of JavaScript)
 
@@ -28,4 +30,4 @@ I like to teach and share my knowledge with people, currently I'm collaborate fo
 ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=josemapereira&layout=compact)
 
 ##  Follow me!
-[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://linkedin.com/in/josemapereira)[![enter image description here](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://instagram.com/josema_pereira)
+[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://linkedin.com/in/josemapereira)[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://instagram.com/josema_pereira)
