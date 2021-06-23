@@ -4,10 +4,11 @@
 [![aws](badges/aws-certified-developer-associate.png)](https://www.credly.com/badges/5a0d1646-2666-4864-aa03-7da32fc5c4cb/public_url)
 
 I'm a Software Engineer with experience in the use of javascript frameworks for almost four years. Self-taught person and always I'm looking for new challenges.
-Cancun,México. :sunny: :palm_tree:
+
+Cancun, México. :sunny: :palm_tree:
 
 ## About me
-I'm front-end developer with 4 years of experience usign javascript frameworks.
+I'm developer with 4 years of experience usign javascript frameworks.
 I like to teach and share my knowledge with people, currently I'm collaborate for an online courses platform called AzulSchool.net. I have released my first course titled [Curso profesional de JavaScript desde cero](https://www.azulschool.net/presentacion/curso-javascript/) (Fundamentals of JavaScript)
 
 :mailbox: Stay in touch! josema.pereira.cih@gmail.com
