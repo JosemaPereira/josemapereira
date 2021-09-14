@@ -1,4 +1,5 @@
-# Hi :wave:, I'm Josema Pereira
+# Hi :wave:, I'm Josema Pereira 
+![Profile views](https://komarev.com/ghpvc/?username=josemapereira)
 
 [![aws](badges/aws-certified-developer-associate.png)](https://www.credly.com/badges/5a0d1646-2666-4864-aa03-7da32fc5c4cb/public_url)
 
@@ -15,8 +16,8 @@ I like to teach and share my knowledge with people, currently I'm collaborate fo
 ### Programming Language
 |Area|  |
 |:--:|--|
-|Programming Language|![JS](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg) ![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg) ![C++](https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png) ![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg) ![python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)|
-|Frontend Development|![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg) ![Angularjs](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg) ![VueJs](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg) ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg) ![SASS](https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![jQuery](https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg) ![Webpack](https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg)|
+|Programming Language|![JS](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg) ![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg) ![python](https://www.vectorlogo.zone/logos/python/python-ar21.svg) ![C++](https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png) ![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg)|
+|Frontend Development|![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg) ![VueJs](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)![jQuery](https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg) ![SASS](https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg) ![Webpack](https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg)|
 |Frameworks|![serverless](https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg) ![Chalice](https://aws.github.io/chalice/_static/img/chalice-logo-icon-small.png) ![Yii](https://www.vectorlogo.zone/logos/yiiframework/yiiframework-ar21.svg) ![.Net](https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg)|
 |Unit Testing| ![Jasmine](https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21.svg) ![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg)|
 |Backend Development| ![express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg) ![nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg) |
@@ -25,8 +26,6 @@ I like to teach and share my knowledge with people, currently I'm collaborate fo
 |Other|![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) ![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg) ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)|
 
 ## Stats
-![Profile views](https://komarev.com/ghpvc/?username=josemapereira)
-
 ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=josemapereira&layout=compact)
 
 ##  Follow me!
