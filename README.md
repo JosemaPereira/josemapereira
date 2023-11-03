@@ -8,18 +8,11 @@ Cancun, México. :sunny: :palm_tree:
 
 ## About
 
-Jose is a Software Engineer with experience in the use of javascript frameworks for five years.
-He is a self-taught person and always is looking for new challenges.
+As a software engineer with over 5 years of experience in backend application development, I have acquired strong skills in designing, implementing, and maintaining high-quality systems.
 
-As a front-end developer, he worked in the e-commerce area at a travel agency developing the main site using the ReactJS framework as a part of the rebranding company. Also, he worked on small projects using the jQuery framework to build static landing pages to be used by google's ad campaigns.
+My experience includes working with programming languages such as Javascript, Go, and Python, as well as relevant tools and technologies for modern application development. I am focused on producing clean and scalable code and strive to follow industry best practices in every project. Additionally, I have worked in agile, cross-functional teams, which has allowed me to develop effective communication and teamwork skills.
 
-He released his first course titled [Curso profesional de JavaScript desde cero](https://www.azulschool.net/presentacion/curso-javascript/) (Fundamentals of JavaScript)
-
-Later he decides to move to Back-End after being part of the NodeJs and Amazon Web Services projects.
-
-He currently works as a Back-End engineer. In May 2020 earned the AWS Developer Associate certification.
-
-:mailbox: Stay in touch! josema.pereira.cih@gmail.com
+:mailbox: Stay in touch! <josema.pereira.cih@gmail.com>
 
 ## My Skills
 
@@ -27,13 +20,12 @@ He currently works as a Back-End engineer. In May 2020 earned the AWS Developer 
 
 |Area|  |
 |:--:|--|
-|Programming Language|![JS](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg) ![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg) ![python](https://www.vectorlogo.zone/logos/python/python-ar21.svg) ![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg)|
+|Programming Language|![JS](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg) ![python](https://www.vectorlogo.zone/logos/python/python-ar21.svg) ![Go](https://www.vectorlogo.zone/logos/golang/golang-ar21.svg)|
 |Frontend Development|![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg) ![VueJs](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)![jQuery](https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg) |
-|Frameworks|![serverless](https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg) ![Chalice](https://aws.github.io/chalice/_static/img/chalice-logo-icon-small.png) ![Yii](https://www.vectorlogo.zone/logos/yiiframework/yiiframework-ar21.svg)
-|Unit Testing| ![Jasmine](https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21.svg) ![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg)|
-|Backend Development| ![express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg) ![nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg) |
+|Unit Testing| ![Jasmine](https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21.svg) ![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg) ![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg) ![Pytest](https://www.vectorlogo.zone/logos/pytest/pytest-ar21.svg) |
+|Backend Development| ![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg) ![Chalice](https://aws.github.io/chalice/_static/img/chalice-logo-icon-small.png) ![Yii](https://www.vectorlogo.zone/logos/yiiframework/yiiframework-ar21.svg) |
 |Database|![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg) ![Redis](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg) ![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)|
-|Devops |![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg) ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg)|
+|Devops |![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg) ![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg) ![serverless](https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg)|
 |Other|![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) ![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg) ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)|
 
 ## Stats
